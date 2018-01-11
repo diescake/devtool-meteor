@@ -4,7 +4,8 @@
   "description": "Meteor destruct our beautiful earth when devtools invoked",
   "main": "index.js",
   "scripts": {
-    "start": "parcel ./src/index.html"
+    "start": "parcel ./src/index.html",
+    "build": "parcel ./src/index.html --out-dir public --public-url ./"
   },
   "repository": {
     "type": "git",
