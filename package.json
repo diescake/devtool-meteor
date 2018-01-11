@@ -1,19 +1,19 @@
 {
   "name": "devtool-meteor",
-  "version": "1.0.0",
-  "description": "Meteor destruct our beautiful earth when devtools invoked",
-  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Meteor destructs our beautiful earth when devtools invoked",
+  "main": "src/index.js",
   "scripts": {
-    "start": "parcel ./src/index.html",
-    "build": "parcel build ./src/index.html --out-dir public --public-url ./",
+    "start": "parcel ./src/sample.html",
+    "build": "parcel build ./src/sample.html --out-dir public --public-url ./",
     "deploy": "firebase deploy"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aDaisukeKondo/devtool-meteor.git"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["javascript", "devtools", "joke"],
+  "author": "diescake",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/aDaisukeKondo/devtool-meteor/issues"
