@@ -2,6 +2,8 @@
 
 Meteor destruct our beautiful earth when devtools invoked
 
+## [DEMO](https://devtool-meteor.firebaseapp.com/ "DEMO")
+
 ## Install
 
 ```sh
@@ -18,5 +20,5 @@ npm start
 
 ## Access
 
-Open `http://localhost:1234` in your browser and press `F12 key` to open the devtools.
+Open `http://localhost:1234` in your chrome browser and press `F12 key` to open the devtools.
 
