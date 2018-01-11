@@ -1,6 +1,6 @@
 {
   "name": "devtool-meteor",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Meteor destructs our beautiful earth when devtools invoked",
   "main": "src/index.js",
   "scripts": {
