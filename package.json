@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/index.html",
-    "build": "parcel ./src/index.html --out-dir public --public-url ./"
+    "build": "parcel build ./src/index.html --out-dir public --public-url ./",
+    "deploy": "firebase deploy"
   },
   "repository": {
     "type": "git",
