@@ -12,7 +12,7 @@ Meteor destructs our beautiful earth when devtools invoked.
 In a browser:
 
 ```html
-<script src="index.js"></script>
+<script src="devtool-meteor.js"></script>
 ```
 
 Using npm:

@@ -1,8 +1,8 @@
 {
   "name": "devtool-meteor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Meteor destructs our beautiful earth when devtools invoked",
-  "main": "src/index.js",
+  "main": "src/devtool-meteor.js",
   "scripts": {
     "start": "parcel ./src/sample.html",
     "build": "parcel build ./src/sample.html --out-dir public --public-url ./",
