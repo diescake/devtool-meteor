@@ -44,3 +44,6 @@ npm start
 
 Open `http://localhost:1234` in your chrome browser and press `F12 key` to open the devtools.
 
+## etc
+
+For more information. see [Qiita](https://qiita.com/diescake/items/b25791eb7750c775e72f) in Japanese.
